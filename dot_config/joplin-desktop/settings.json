@@ -1,0 +1,75 @@
+{
+	"$schema": "https://joplinapp.org/schema/settings.json",
+	"locale": "en_GB",
+	"api.token": "04b2094ecf1b853c1eef1863d42de4355e68a6c6a3d348a448dd10f5017712e5a667005194408fb541b3ef80ab8b0577f620ea9cb06398def2bba57eb64a1492",
+	"markdown.plugin.softbreaks": false,
+	"markdown.plugin.typographer": false,
+	"spellChecker.language": "en-GB",
+	"ui.layout": {
+		"key": "root",
+		"children": [
+			{
+				"key": "tempContainer-LqrvxPVCrSUHMeVk2E5evZ",
+				"children": [
+					{
+						"key": "plugin-view-joplin.plugin.benji.favorites-favorites.panel",
+						"context": {
+							"pluginId": "joplin.plugin.benji.favorites"
+						},
+						"visible": true,
+						"height": 129
+					},
+					{
+						"key": "sideBar",
+						"visible": true,
+						"height": 528
+					},
+					{
+						"key": "noteList",
+						"visible": true
+					}
+				],
+				"visible": true,
+				"width": 262
+			},
+			{
+				"key": "tempContainer-1ehvjcEQ8Njjx4J3SXhTqd",
+				"children": [
+					{
+						"key": "plugin-view-joplin.plugin.note.tabs-note.tabs.panel",
+						"context": {
+							"pluginId": "joplin.plugin.note.tabs"
+						},
+						"visible": true,
+						"height": 43
+					},
+					{
+						"key": "editor",
+						"visible": true
+					}
+				],
+				"visible": true
+			}
+		],
+		"visible": true
+	},
+	"noteVisiblePanes": [
+		"viewer"
+	],
+	"themeAutoDetect": true,
+	"preferredDarkTheme": 5,
+	"editor.autoMatchingBraces": false,
+	"markdown.plugin.sub": true,
+	"markdown.plugin.sup": true,
+	"showTrayIcon": true,
+	"startMinimized": false,
+	"style.editor.fontFamily": "SauceCodePro NF",
+	"editor": "/usr/bin/gvim",
+	"revisionService.ttlDays": 480,
+	"theme": 1,
+	"clipperServer.autoStart": true,
+	"editor.codeView": true,
+	"editor.keyboardMode": "vim",
+	"windowContentZoomFactor": 100,
+	"notes.sortOrder.field": "title"
+}

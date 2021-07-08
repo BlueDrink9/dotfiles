@@ -1,0 +1,58 @@
+[
+  {
+    "command": "insertDateTime",
+    "accelerator": "Ctrl+Shift+D"
+  },
+  {
+    "command": "focusElementNoteTitle",
+    "accelerator": "Ctrl+Shift+T"
+  },
+  {
+    "command": "toggleExternalEditing",
+    "accelerator": "Alt+E"
+  },
+  {
+    "command": "setTags",
+    "accelerator": "Ctrl+'"
+  },
+  {
+    "command": "editor.swapLineUp",
+    "accelerator": null
+  },
+  {
+    "command": "editor.swapLineDown",
+    "accelerator": null
+  },
+  {
+    "command": "historyBackward",
+    "accelerator": "Alt+Left"
+  },
+  {
+    "command": "historyForward",
+    "accelerator": "Alt+Right"
+  },
+  {
+    "command": "newSubFolder",
+    "accelerator": "Ctrl+Shift+N"
+  },
+  {
+    "command": "formatTable",
+    "accelerator": null
+  },
+  {
+    "command": "favsAddFolder",
+    "accelerator": null
+  },
+  {
+    "command": "favsAddTag",
+    "accelerator": null
+  },
+  {
+    "command": "favsAddNote",
+    "accelerator": null
+  },
+  {
+    "command": "tabsPinNote",
+    "accelerator": null
+  }
+]
